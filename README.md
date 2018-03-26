@@ -2,10 +2,6 @@
 ## Course Code: CS821	<br/>
 ## Assignment: #3	<br/>
 ### Overview		<br/>
-TCP-DCR makes
-simple modifications to the TCP congestion control algorithm to make it more
-robust to non-congestion events. The key idea here is to delay the congestion
-response of TCP for a short interval of time , thereby creating room for local recovery
-mechanisms to handle any non-congestion events that may have occurred.
-If at the end of the delay , the event is not handled, then it is treated as a congestion
-loss.
+TCP has a very important and appreciated feature of Congestion Control. Traditional implementations of TCP assume packet loss mainly due to congestion.This is well suited for wired connections as the probability of packet loss due to channel errors is almost negligible and hence the main reason for packet loss is congestion.
+However in wireless this is not the case. In wireless networks significant number of packet losses could be due to channel errors. Hence assuming congestion to be the reason of packet loss every time and reducing the size of congestion window could be dangerous to the utilization of bandwidth in the network.
+TCP DCR attempts to solve this issue. It increases the time at which fast retransmit/recovery algorithms are triggered by a time interval 𝜏. This gives a chance to the link layer to recover the packet if it is due to channel errors. If not it triggers the congestion algorithms.
