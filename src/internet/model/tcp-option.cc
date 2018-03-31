@@ -107,6 +107,8 @@ TcpOption::IsKindKnown (uint8_t kind)
     case SACKPERMITTED:
     case SACK:
     case TS:
+    //DCR added
+    case DCR:
       // Do not add UNKNOWN here
       return true;
     }

@@ -61,6 +61,8 @@ public:
     SACKPERMITTED = 4,          //!< SACKPERMITTED
     SACK = 5,                   //!< SACK
     TS = 8,                     //!< TS
+    //DCR case Added
+    DCR = 9,                    //!< DCR
     UNKNOWN = 255               //!< not a standardized value; for unknown recv'd options
   };
 
