@@ -1167,6 +1167,7 @@ protected:
   TracedValue<Time> m_rto     {Seconds (0.0)}; //!< Retransmit timeout
   Time              m_minRto  {Time::Max ()};   //!< minimum value of the Retransmit timeout
   TracedValue<Time> m_lastRtt {Seconds (0.0)}; //!< Last RTT sample collected
+  Time              m_instRtt;         //!< Instantaneous RTT
   Time              m_clockGranularity {Seconds (0.001)}; //!< Clock Granularity used in RTO calcs
   Time              m_delAckTimeout    {Seconds (0.0)};   //!< Time to delay an ACK
   Time              m_persistTimeout   {Seconds (0.0)};   //!< Time between sending 1-byte probes
@@ -1211,6 +1212,7 @@ protected:
 
   // Options
   bool    m_sackEnabled       {true}; //!< RFC SACK option enabled
+  bool    m_dcrEnabled;               //!< DCR option enabled
   bool    m_winScalingEnabled {true}; //!< Window Scale option enabled (RFC 7323)
   uint8_t m_rcvWindShift      {0};    //!< Window shift to apply to outgoing segments
   uint8_t m_sndWindShift      {0};    //!< Window shift to apply to incoming segments
@@ -1222,6 +1224,7 @@ protected:
   // Fast Retransmit and Recovery
   SequenceNumber32       m_recover    {0};   //!< Previous highest Tx seqnum for fast recovery (set it to initial seq number)
   uint32_t               m_retxThresh {3};   //!< Fast Retransmit threshold
+  uint32_t               m_dcrRetxThresh;   //!< Fast Retransmit threshold
   bool                   m_limitedTx  {true}; //!< perform limited transmit
 
   // Transmission Control Block
