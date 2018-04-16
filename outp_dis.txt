@@ -1,0 +1,8587 @@
+Waf: Entering directory `/home/kajoljain/wireless project/ns3_with_change/build'
+Waf: Leaving directory `/home/kajoljain/wireless project/ns3_with_change/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (2.996s)
+DCR after coming to socket listen is=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=0
+isDupack value is1
+DCR2=0
+isDupack value is0
+Flow1(10.1.1.2->10.1.3.1)
+ Tx Bytes: 2951868
+ Rx Bytes: 2898360
+  Tx Packets: 5022
+  Rx Packets: 4931
+  DroppedPackets: 501
+  Throughput: 2.57632 Mbps
+Flow2(10.1.3.1->10.1.1.2)
+ Tx Bytes: 149348
+ Rx Bytes: 149244
+  Tx Packets: 2872
+  Rx Packets: 2870
+  Throughput: 0.132661 Mbps
+
+

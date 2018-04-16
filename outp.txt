@@ -1,0 +1,8737 @@
+Waf: Entering directory `/home/kajoljain/wireless project/ns3_with_change/build'
+Waf: Leaving directory `/home/kajoljain/wireless project/ns3_with_change/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (2.437s)
+DCR after coming to socket listen is=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1608
+getm=25instrtt=0.05
+m_dcrthresh=6
+retx after setting =6
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+retx=3
+win=1608
+getm=24instrtt=0.047619
+m_dcrthresh=6
+retx after setting =6
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+retx=3
+win=1072
+getm=23instrtt=0.0526316
+m_dcrthresh=5
+retx after setting =5
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+isDupack value is1
+DCR2=1
+isDupack value is0
+Flow1(10.1.1.2->10.1.3.1)
+ Tx Bytes: 3042420
+ Rx Bytes: 2979504
+  Tx Packets: 5176
+  Rx Packets: 5069
+  DroppedPackets: 484
+  Throughput: 2.64845 Mbps
+Flow2(10.1.3.1->10.1.1.2)
+ Tx Bytes: 144824
+ Rx Bytes: 144772
+  Tx Packets: 2785
+  Rx Packets: 2784
+  Throughput: 0.128686 Mbps
+
+

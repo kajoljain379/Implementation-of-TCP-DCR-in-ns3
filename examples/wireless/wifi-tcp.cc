@@ -37,7 +37,7 @@
 #include "ns3/internet-module.h"
 #include "ns3/mobility-module.h"
 #include "ns3/wifi-module.h"
-
+#include "ns3/error-model.h"
 NS_LOG_COMPONENT_DEFINE ("wifi-tcp");
 
 using namespace ns3;
@@ -49,10 +49,10 @@ void
 CalculateThroughput ()
 {
   Time now = Simulator::Now ();                                         /* Return the simulator's virtual time. */
-  double cur = (sink->GetTotalRx () - lastTotalRx) * (double) 8 / 1e5;     /* Convert Application RX Packets to MBits. */
+  double cur = (sink->GetTotalRx () - lastTotalRx) * (double) 8 / 1e6;     /* Convert Application RX Packets to MBits. */
   std::cout << now.GetSeconds () << "s: \t" << cur << " Mbit/s" << std::endl;
   lastTotalRx = sink->GetTotalRx ();
-  Simulator::Schedule (MilliSeconds (100), &CalculateThroughput);
+  Simulator::Schedule (MilliSeconds (200), &CalculateThroughput);
 }
 
 int
@@ -64,6 +64,8 @@ main (int argc, char *argv[])
   std::string phyRate = "HtMcs7";                    /* Physical layer bitrate. */
   double simulationTime = 10;                        /* Simulation time in seconds. */
   bool pcapTracing = false;                          /* PCAP Tracing is enabled or not. */
+  bool dcr = false;                                  //boolean var to enable dcr
+  bool sack =false;
 
   /* Command line argument parser setup. */
   CommandLine cmd;
@@ -75,6 +77,10 @@ main (int argc, char *argv[])
   cmd.AddValue ("phyRate", "Physical layer bitrate", phyRate);
   cmd.AddValue ("simulationTime", "Simulation time in seconds", simulationTime);
   cmd.AddValue ("pcap", "Enable/disable PCAP Tracing", pcapTracing);
+
+  //
+  cmd.AddValue ("DCR", "Enable or disable DCR option", dcr);
+
   cmd.Parse (argc, argv);
 
   tcpVariant = std::string ("ns3::") + tcpVariant;
@@ -82,7 +88,10 @@ main (int argc, char *argv[])
   /* No fragmentation and no RTS/CTS */
   Config::SetDefault ("ns3::WifiRemoteStationManager::FragmentationThreshold", StringValue ("999999"));
   Config::SetDefault ("ns3::WifiRemoteStationManager::RtsCtsThreshold", StringValue ("999999"));
-
+//
+  Config::SetDefault ("ns3::TcpSocketBase::DCR", BooleanValue (dcr));
+  Config::SetDefault ("ns3::TcpSocketBase::Sack", BooleanValue (sack));
+    std::cout<<"DCR1="<<dcr<<std::endl;
   // Select TCP variant
   if (tcpVariant.compare ("ns3::TcpWestwoodPlus") == 0)
     { 
@@ -118,14 +127,14 @@ main (int argc, char *argv[])
   wifiPhy.Set ("TxPowerLevels", UintegerValue (1));
   wifiPhy.Set ("TxGain", DoubleValue (0));
   wifiPhy.Set ("RxGain", DoubleValue (0));
-  wifiPhy.Set ("RxNoiseFigure", DoubleValue (10));
+  wifiPhy.Set ("RxNoiseFigure", DoubleValue (40));
   wifiPhy.Set ("CcaMode1Threshold", DoubleValue (-79));
   wifiPhy.Set ("EnergyDetectionThreshold", DoubleValue (-79 + 3));
   wifiPhy.SetErrorRateModel ("ns3::YansErrorRateModel");
   wifiHelper.SetRemoteStationManager ("ns3::ConstantRateWifiManager",
                                       "DataMode", StringValue (phyRate),
                                       "ControlMode", StringValue ("HtMcs0"));
-
+  
   NodeContainer networkNodes;
   networkNodes.Create (2);
   Ptr<Node> apWifiNode = networkNodes.Get (0);
@@ -187,7 +196,7 @@ main (int argc, char *argv[])
   /* Start Applications */
   sinkApp.Start (Seconds (0.0));
   serverApp.Start (Seconds (1.0));
-  Simulator::Schedule (Seconds (1.1), &CalculateThroughput);
+  Simulator::Schedule (Seconds (1.2), &CalculateThroughput);
 
   /* Enable Traces */
   if (pcapTracing)
@@ -203,11 +212,11 @@ main (int argc, char *argv[])
   Simulator::Destroy ();
 
   double averageThroughput = ((sink->GetTotalRx () * 8) / (1e6  * simulationTime));
-  if (averageThroughput < 50)
+ /* if (averageThroughput < 50)
     {
       NS_LOG_ERROR ("Obtained throughput is not in the expected boundaries!");
       exit (1);
-    }
+    }*/
   std::cout << "\nAverage throughput: " << averageThroughput << " Mbit/s" << std::endl;
   return 0;
 }

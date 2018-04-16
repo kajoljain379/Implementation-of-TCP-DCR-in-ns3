@@ -222,6 +222,7 @@ int main (int argc, char *argv[])
   bool flow_monitor = false;
   bool pcap = false;
   bool sack = true;
+  bool dcr= false;
   std::string queue_disc_type = "ns3::PfifoFastQueueDisc";
 
 
