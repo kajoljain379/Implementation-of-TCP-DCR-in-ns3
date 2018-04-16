@@ -13,11 +13,11 @@ TCP DCR attempts to solve this issue. It increases the time at which fast retran
  - ./waf
 
 2.) Run written example with enable and disable dcr
- - ./waf --run="scratch/example_dcr2 --DCR=true --edt=40.0 " > outp.txt
- - ./waf --run="scratch/example_dcr2 --DCR=true --edt=40.0 " > outp_dis.txt
+ - ./waf --run="scratch/example_dcr2 --DCR=true --edt=40.0 "
+ - ./waf --run="scratch/example_dcr2 --DCR=false --edt=40.0 " 
 
-##### Output file will be available in file outp.txt
 
 ### References
 1. TCP DCR paper IEEE   https://ieeexplore.ieee.org/document/1492363/ 
+2. https://www.nsnam.org/
 
